@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="stellGrey">#3E434B</color>
+    <color name="lvory">#FAFAF9</color>
+    <color name="shadyLady">#A4A2A3</color>
+    <color name="buddhaGold">#C79F24</color>
+    <color name="squirrel">#98826E</color>
+    <color name="lightGrey">#D1D1D1</color>
+    <color name="cardBgColor">#464d57</color>
+    <color name="greenBlack">#0a0e00</color>
+</resources>
